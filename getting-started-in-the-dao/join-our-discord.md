@@ -4,7 +4,7 @@ description: >-
   learning and career in Web3 (alpha).
 ---
 
-# 💬 How to join the Discord
+# 💬 Join our Discord
 
 ### Requirements
 
@@ -36,9 +36,9 @@ When trading tokens, please confirm you're interactive with the official contrac
 
 ### Joining Discord
 
-We use guild to manage the access to our community.
+We use a service called [Guild](https://guild.xyz/explorer) to manage the access to our community.
 
-If you hold the D4R NFT or at least 400 CODE tokens, joining the server is a heading to the DAO's guild profile and connecting your wallet.
+If you hold the D4R NFT or at least 400 CODE tokens, or any other tokens that give access (i.e. Hackathon participant NFTs), joining the server is a heading to the DAO's guild profile and connecting your wallet.
 
 {% embed url="https://guild.xyz/dd" fullWidth="false" %}
 Link to the DAOs guild.xyz profile - guild.xyz/dd

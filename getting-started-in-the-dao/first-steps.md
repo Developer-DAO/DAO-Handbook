@@ -33,6 +33,6 @@ Our discord is where the rest of the Alpha is at 🤫.
 
 Joining our Discord required holding our D4R OG NFT or > 400 CODE tokens. If you already hold one of these, head to [https://guild.xyz/dd ](https://guild.xyz/dd)to get access or check out the guide below.
 
-{% content-ref url="how-to-join-the-discord.md" %}
-[how-to-join-the-discord.md](how-to-join-the-discord.md)
+{% content-ref url="join-our-discord.md" %}
+[join-our-discord.md](join-our-discord.md)
 {% endcontent-ref %}

@@ -30,16 +30,19 @@ The claim period for the CODE token airdrop was set at six months. After that pe
 
 ## CODE Token utility
 
-The CODE token is a Governance token. Its primary purpose is to empower Members to Governance the DAO via voting on [Snapshot](https://snapshot.org/#/devdao.eth)
+The CODE token is a Governance token. Its primary purpose is to empower Members to Govern the DAO via voting on [Snapshot](https://snapshot.org/#/devdao.eth)
 
 It does, however, have some utility for Members beyond Governance:
 
 1. Access to our Discord community
 2. Certain Member-only opportunities (i.e. writing for the blog)
 
-We hope to increase the utility of the CODE token over time and welcome all ideas for doing this on the forum.
+We hope to increase the utility of the CODE token over time and welcome all ideas and proposals to add utility. Please share them on our [governance forum](https://forum.developerdao.com/).
 
-## How is the CODE token allocated \[WIP]
+## How is the CODE token allocated?
 
-CODE token allocations are defined in budget requests made via Governance.
+CODE token allocations are agreed via our Governance process.
 
+Any Member has the right to submit a Governance proposal that includes allocating CODE or other treasury assets to be considered by and voted on by the DAO if requirements are met.
+
+If you're a Member hoping to earn CODE rewards, check out [how-to-earn-code.md](../getting-started-in-the-dao/how-to-earn-code.md "mention").

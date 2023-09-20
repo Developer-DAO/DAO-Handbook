@@ -19,4 +19,14 @@ Check out this excellent [blog post](https://mirror.xyz/0x954888B7a5C6736F4955dF
 
 ### Mission, values & goals alignment
 
-Successfully delivering on our mission to “accelerate the education and impact of a new wave of web3 builders” requires interfacing with the real world. A Cayman Foundation not only provides us with an entity, but its structure supports the diverse and global nature of our membership, the philanthropic spirit of our mission via tax neutrality and the added peace of mind of defined regulation related to crypto tokens within which we can operate.
+Successfully delivering on our mission to “accelerate the education and impact of a new wave of web3 builders” requires interfacing with the real world. A Cayman Foundation not only provides us with an entity, but its structure supports our membership's diverse and global nature, the philanthropic spirit of our mission via tax neutrality and the added peace of mind of defined regulation related to crypto tokens within which we can operate.
+
+## Documents
+
+For transparency, important documents relating to the Foundation can be found below, and they're also hosted on our Github [here](https://github.com/Developer-DAO/the-developer-dao-foundation/tree/main/foundation-docs).
+
+{% file src="../.gitbook/assets/Certificate of Incorporation - The Developer DAO Foundation.pdf" %}
+
+{% file src="../.gitbook/assets/The Developer DAO Foundaton - Articles of Association.pdf" %}
+
+{% file src="../.gitbook/assets/The Developer DAO Foundaton - Articles of Association (1).pdf" %}

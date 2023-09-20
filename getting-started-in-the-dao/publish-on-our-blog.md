@@ -39,7 +39,7 @@ You can read some of our most viewed articles below:
 2. If accepted, our editors will get in touch and help you refine your title and outline. We will also decide on the mechanisms of the payout at this stage.
 3. Writing: using our [content guidelines](https://docs.google.com/document/d/1fBQil8YI1tDRFMLzr\_if3CiuJfZPS7JEGRXQcaE56xk/edit#heading=h.hthkxwlbvt1q) you author the article, and our editor will be available along the way if you need support.
 4. Once your draft is finalised, we will publish the article on the [blog](https://blog.developerdao.com/).
-5. Your reward will be issued inline with the DAO's monthly payroll on or around the last day of the month.
+5. Your reward will be issued in line with the DAO's monthly payroll on or around the last day of the month.
 
 ## How do I get my employer's content published on the blog?
 
@@ -47,6 +47,6 @@ Thanks for your interest.
 
 Publishing to our blog is reserved for Members to give them a platform to share their knowledge, be rewarded, and increase their profile in the industry. If you are a Member and you work for a protocol, the blog is not a platform for you to promote your employer.
 
-We deal with such requests on a case-by-case basis. If your content is mostly agnostic of your employer's product or protocol (i.e. the content has value beyond just using their product), we may consider publishing it. However, if it is highly focused on the product or protocol and has no real value outside of using it, it will likely be rejected.
+We deal with such requests on a case-by-case basis. If your content is mostly agnostic of your employer's product or protocol (i.e. the content has value beyond just using their product), we may consider publishing it. However, it will likely be rejected if it is highly focused on the product or protocol and has no real value outside of using it.
 
 You can reach out to partnerships@developerdao.com if you're interested in a partnership.

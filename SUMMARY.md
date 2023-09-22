@@ -17,4 +17,5 @@
 * [🎯 Mission, Values & Goals](about-the-dao/mission-values-and-goals.md)
 * [📚 DAO Structure](about-the-dao/dao-structure.md)
 * [🪙 The CODE Token](about-the-dao/the-code-token.md)
+* [👩⚖ Governance Process](about-the-dao/governance-process.md)
 * [🏛 The Developer DAO Foundation](about-the-dao/the-developer-dao-foundation.md)

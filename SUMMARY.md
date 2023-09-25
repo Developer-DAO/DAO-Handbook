@@ -8,7 +8,7 @@
 * [📅 Attend our Events](getting-started-in-the-dao/attend-our-events.md)
 * [💬 Join our Discord](getting-started-in-the-dao/join-our-discord.md)
 * [🙌 Show love with Praise](getting-started-in-the-dao/show-love-with-praise.md)
-* [✍ Publish on our blog](getting-started-in-the-dao/publish-on-our-blog.md)
+* [✍ Publish on our blog \[WIP\]](getting-started-in-the-dao/publish-on-our-blog-wip.md)
 * [👩🎤 Join Agency  ΞXPERTS](getting-started-in-the-dao/join-agency-ksxperts.md)
 * [🪙 How to earn CODE](getting-started-in-the-dao/how-to-earn-code.md)
 

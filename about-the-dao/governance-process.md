@@ -47,15 +47,3 @@ The final ratification of a DDIP requires a successful vote of Members on the [d
 | **Who**          | Stewards                                       |
 | **Where**        | [Snapshot](https://snapshot.org/#/devdao.eth/) |
 | **Requierments** | INSERT\_REQUIRMENTS                            |
-
-## Navigating Governance
-
-You are probably reading this as you want to help the DAO achieve its mission by either working for the DAO or improving something about how the DAO functions.
-
-In either case, we get things done in the DAO via Developer DAO Improvement Proposals (DDIP)
-
-We get things done in the DAO by empowering Members to work on the DAO's behalf via Developer DAO Improvement Proposals (DDIP). DDIPs&#x20;
-
-&#x20;establishing sub-DAOs (synonymous with teams, workstreams, etc.) to take responsibility for a specific area of work in return for rewards in CODE and the opportunity to generate revenue to pay contributors in other assets.
-
-Any Member who has an idea can write a Budget Request. They vary in complexity.

@@ -23,8 +23,8 @@ Events are core to the value the DAO provides for Members and non-members via so
 
 Check out our guide on events below.
 
-{% content-ref url="join-our-events.md" %}
-[join-our-events.md](join-our-events.md)
+{% content-ref url="attend-our-events.md" %}
+[attend-our-events.md](attend-our-events.md)
 {% endcontent-ref %}
 
 ### Join our Discord

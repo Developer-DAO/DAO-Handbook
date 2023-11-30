@@ -13,7 +13,7 @@ Much of what we do is free and open to everyone as a public good. The first step
 * Follow us on [Twitter](https://twitter.com/developer\_dao)
 * Subscribe to our [Newsletter](https://developerdao.substack.com/)
 * Sign-up for [Events (Workshops, Hackathons, Community events)](https://lu.ma/developer-dao-events)
-* Sign-up for [Jobs](https://developerdao.pallet.com/jobs)
+* Sign-up for [Eden](https://www.edenprotocol.app/signup) for new job opportunities
 
 Once you're connected with us, it's time to get involved.
 

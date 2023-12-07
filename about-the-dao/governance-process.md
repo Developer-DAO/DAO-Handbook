@@ -46,4 +46,4 @@ The final ratification of a DDIP requires a successful vote of Members on the [d
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **Who**          | Stewards                                                                                                                              |
 | **Where**        | [Snapshot](https://snapshot.org/#/devdao.eth/)                                                                                        |
-| **Requierments** | Single choice voting strategy, successful proposal require majority of votes with a minimum quorom of 2% vote circulating CODE tokens |
+| **Requirements** | Single choice voting strategy, successful proposal require majority of votes with a minimum quorom of 2% vote circulating CODE tokens |
